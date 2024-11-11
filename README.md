@@ -16,6 +16,6 @@
 
 ## Books
 1. [**_Probabilistic machine learning: a book series_**, Kevin Murphy (Google)](https://probml.github.io/pml-book/)
-2. [**_ _**]()
+2. [**_Pattern Recognition and Machine Learning_**, Christopher M. Bishop (Microsoft),2006](https://github.com/peteflorence/MachineLearning6.867/blob/master/Bishop/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
 3. [**_ _**]()
    
