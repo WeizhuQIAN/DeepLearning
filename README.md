@@ -20,7 +20,7 @@
 ## Books
 1. [**_Probabilistic machine learning: a book series_**, Kevin Murphy (Google)](https://probml.github.io/pml-book/)
 2. [**_Pattern Recognition and Machine Learning_**, Christopher M. Bishop (Microsoft),2006](https://github.com/peteflorence/MachineLearning6.867/blob/master/Bishop/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
-3. [**_Mathematics for Machine Learning_**Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong,2020.](https://mml-book.github.io/book/mml-book.pdf)
+3. [**_Mathematics for Machine Learning_**,Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong,2020.](https://mml-book.github.io/book/mml-book.pdf)
 4. [**_ _**]()
 5. [**_ _**]()
    
