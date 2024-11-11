@@ -4,7 +4,7 @@
 ## Courses
 1. [**_Deep Generative Models_**, Kailing He (MIT EECS, Fall 2024)](https://mit-6s978.github.io/schedule.html)
 2. [**_Probabilistic Graphical Models_**, Eric P. Xing (CMU, Spring 2020)](https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html)
-3. [**_ _**]()
+3. [**_ UvA Deep Learning Tutorial (with code)_**, Phillip Lippe (University of Amsterdam, Fall 2023)](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 4. [**_ _**]()
 5. [**_ _**]()
 
