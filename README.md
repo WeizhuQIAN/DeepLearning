@@ -1,4 +1,4 @@
-# For Studying Deep Learning
+# Collecting interesting reading materials for studying deep learning
 
 
 ## Courses
