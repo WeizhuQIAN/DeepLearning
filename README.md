@@ -2,7 +2,7 @@
 
 
 ## Courses
-1. [Deep Generative Models, Kailing He (MIT EECS, Fall 2024)](https://mit-6s978.github.io/schedule.html)
+1. [\textit {Deep Generative Models}, Kailing He (MIT EECS, Fall 2024)](https://mit-6s978.github.io/schedule.html)
 2. [Probabilistic Graphical Models, Eric P. Xing (CMU, Spring 2020)](https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html)
 3. []()
 4. []()
