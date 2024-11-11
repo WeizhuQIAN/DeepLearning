@@ -8,13 +8,13 @@
 4. [**_ _**]()
 
 
-## Books
+## Blogs
 1. [**_Lil’Log_**, Lilian Weng](https://lilianweng.github.io/)
 2. [**_Agustinus Kristiadi_** ](https://agustinus.kristia.de/blog/)
 3. [**_ _**]()
 
 
-## Blogs
+## Books
 1. [**_Probabilistic machine learning: a book series_**, Kevin Murphy (Google)](https://probml.github.io/pml-book/)
 2. [**_ _**]()
 3. [**_ _**]()
