@@ -10,9 +10,9 @@
 
 
 ## Blogs
-1. [**_Lil’Log_**, Lilian Weng](https://lilianweng.github.io/)
-2. [**_Agustinus Kristiadi_** ](https://agustinus.kristia.de/blog/)
-3. [**_ _**]()
+1. [**_Lil’Log_**, Lilian Weng, OpenAI](https://lilianweng.github.io/)
+2. [**_Agustinus Kristiadi_**, MILA ](https://agustinus.kristia.de/blog/)
+3. [**_Alexandre Thiéry_**, NUS](https://alexxthiery.github.io/notes/index_notes.html)
 4. [**_ _**]()
 5. [**_ _**]()
 
