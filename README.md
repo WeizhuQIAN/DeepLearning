@@ -7,8 +7,9 @@
 3. [**_UvA Deep Learning Tutorial (with code)_**, Phillip Lippe (University of Amsterdam, Fall 2023)](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 4. [**_Steve Brunton's Youtube channel_**，Steve Brunton, University of Washington](https://www.youtube.com/@Eigensteve/videos)
 5. [**_Rémi Flamary_**, Rémi Flamary, l'X](https://remi.flamary.com/teaching.html)
-6.  [**_Undergraduate Notes_**, Sinho Chewi, UC Berkeley](https://chewisinho.github.io/class-notes)
-7. [**_Jeffrey Chasnov's Youtube channel_**,Jeffrey Chasnovs, HKUST](https://www.youtube.com/@ProfJeffreyChasnov/videos)
+6. [**_Undergraduate Notes_**, Sinho Chewi, UC Berkeley](https://chewisinho.github.io/class-notes)
+7. [**_Jeffrey Chasnov's Youtube channel_**, Jeffrey Chasnovs, HKUST](https://www.youtube.com/@ProfJeffreyChasnov/videos)
+8. [**_ _**]()
 
 
 ## Blogs and Notes
