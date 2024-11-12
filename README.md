@@ -26,13 +26,13 @@
 
 
 ## Seminars
-1. [**_Valence Labs_**](https://www.youtube.com/@valence_labs)
-2. [**_Institute for Pure & Applied Mathematics (IPAM)_**](https://www.youtube.com/@IPAMUCLA)
+1. [**_Valence Labs, MIT_**](https://www.youtube.com/@valence_labs)
+2. [**_Simons Institute_**](https://www.youtube.com/@SimonsInstituteTOC/featured)
 3. [**_Mathématiques et informatique - Collège de France_**](https://www.youtube.com/@Mathematiques-Informatique-CdF)
 4. [**_Tübingen Machine Learning_**](https://www.youtube.com/c/T%C3%BCbingenML/videos)
 5. [**_Machine Learning and Dynamical Systems Seminar (Alan Turing Institute)_**](https://www.youtube.com/@mlds_seminar/videos)
 6. [**_Finnish Center for Artificial Intelligence (FCAI)_**](https://www.youtube.com/@FCAI/videos)
-7. [**_ _**]()
+7. [**_Institute for Pure & Applied Mathematics (IPAM)_**](https://www.youtube.com/@IPAMUCLA)
    
 
 
