@@ -15,7 +15,7 @@
 1. [**_Lil’Log_**, Lilian Weng, OpenAI](https://lilianweng.github.io/)
 2. [**_Agustinus Kristiadi_**, MILA ](https://agustinus.kristia.de/blog/)
 3. [**_Alexandre Thiéry_**, NUS](https://alexxthiery.github.io/notes/index_notes.html)
-4. [**_棒棒生_**](https://bobondemon.github.io/)
+4. [**_棒棒生_**, Chih-Sheng Chen](https://bobondemon.github.io/)
 5. [**_ _**]()
 6. [**_ _**]()
 
