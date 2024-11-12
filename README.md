@@ -23,10 +23,14 @@
 ## Books (machine learning and math)
 1. [**_Probabilistic machine learning: a book series_**, Kevin Murphy (Google), 2012,2022,2023](https://probml.github.io/pml-book/)
 2. [**_Pattern Recognition and Machine Learning_**, Christopher M. Bishop (Microsoft),2006](https://github.com/peteflorence/MachineLearning6.867/blob/master/Bishop/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
-3. [**_Mathematics for Machine Learning_**,Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong,2020.](https://mml-book.github.io/book/mml-book.pdf)
-4. [**_Probability Essentials_**, Jean Jacod and Philip Protter, 2004](https://www.karlin.mff.cuni.cz/~lachout/Vyuka/O-Sem/JacodProtter2004.pdf)
-5. [**_Partial Differential Equations_**,  Lawrence C. Evans, 1997](https://math24.wordpress.com/wp-content/uploads/2013/02/partial-differential-equations-by-evans.pdf)
-6. [**_ _**]()
+3. [**_Deep Generative Modeling (with code)_**,  Jakub Tomczak (Eindhoven), 2024](https://github.com/jmtomczak/intro_dgm/tree/main?tab=readme-ov-file)
+4. [**_Mathematics for Machine Learning_**,Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong,2020.](https://mml-book.github.io/book/mml-book.pdf)
+5. [**_Probability Essentials_**, Jean Jacod and Philip Protter, 2004](https://www.karlin.mff.cuni.cz/~lachout/Vyuka/O-Sem/JacodProtter2004.pdf)
+6. [**_Partial Differential Equations_**,  Lawrence C. Evans, 1997](https://math24.wordpress.com/wp-content/uploads/2013/02/partial-differential-equations-by-evans.pdf)
+7. [**_ _**]()
+
+
+   
 
 
 ## Video seminars
