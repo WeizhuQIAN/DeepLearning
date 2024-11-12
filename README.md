@@ -1,4 +1,4 @@
-# Collecting interesting reading materials for studying deep learning
+# Interesting materials for studying deep learning
 
 
 ## Courses
@@ -6,15 +6,18 @@
 2. [**_Probabilistic Graphical Models_**, Eric P. Xing (CMU, Spring 2020)](https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html)
 3. [**_UvA Deep Learning Tutorial (with code)_**, Phillip Lippe (University of Amsterdam, Fall 2023)](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 4. [**_Steve Brunton's Youtube channel_**，Steve Brunton, University of Washington](https://www.youtube.com/@Eigensteve/videos)
-5. [**_ _**]()
+5. [**_Rémi Flamary_**, Rémi Flamary, l'X](https://remi.flamary.com/teaching.html)
+6.  [**_Undergraduate Notes_**, Sinho Chewi, UC Berkeley](https://chewisinho.github.io/class-notes)
+7. [**_ _**]()
 
 
-## Blogs
+## Blogs and Notes
 1. [**_Lil’Log_**, Lilian Weng, OpenAI](https://lilianweng.github.io/)
 2. [**_Agustinus Kristiadi_**, MILA ](https://agustinus.kristia.de/blog/)
 3. [**_Alexandre Thiéry_**, NUS](https://alexxthiery.github.io/notes/index_notes.html)
-4. [**_ _**]()
+4. [**_棒棒生_**](https://bobondemon.github.io/)
 5. [**_ _**]()
+6. [**_ _**]()
 
 
 ## Books (machine learning and math)
