@@ -46,6 +46,20 @@
 6. [**_Finnish Center for Artificial Intelligence (FCAI)_**](https://www.youtube.com/@FCAI/videos)
 7. [**_Institute for Pure & Applied Mathematics (IPAM)_**](https://www.youtube.com/@IPAMUCLA)
 8. [**_ _**]()
+
+
+### Derivations
+1. [**_Kolmogorov Backward Equation: Derivation and Interpretation_**](https://www.youtube.com/watch?v=wrvHHNCRl7I)
+2. [**_The Continuity Equation_**](https://www.youtube.com/watch?v=uK-apwLuEk8&t=409s)
+3. [**_Pontryagin's principle of maximum_**](https://www.youtube.com/watch?v=Bxc4iy2xUjc)
+4. [**_HJB_**]()
+5. [**_Langevin Dyanmics_**]()
+6. [**_Hamiltonian Dynamics_**]()
+7. [**_Feynman Kac_**]()
+8. [**__**]()
+
+
+ 
    
 
 
