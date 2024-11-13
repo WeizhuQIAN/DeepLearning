@@ -49,14 +49,15 @@
 
 
 ### Derivations
-1. [**_Kolmogorov Backward Equation: Derivation and Interpretation_**](https://www.youtube.com/watch?v=wrvHHNCRl7I)
-2. [**_The Continuity Equation_**](https://www.youtube.com/watch?v=uK-apwLuEk8&t=409s)
-3. [**_Pontryagin's principle of maximum_**](https://www.youtube.com/watch?v=Bxc4iy2xUjc)
-4. [**_HJB_**](to do)
-5. [**_Langevin Dyanmics_**](to do)
-6. [**_Hamiltonian Dynamics_**](to do)
-7. [**_Feynman Kac_**](to do)
-8. [**__**]()
+1. [**_Fokker-Planck Equation and Langevin dynamics_**](https://www.youtube.com/watch?v=3-KzIjoFJy4&t=8s)
+2. [**_Kolmogorov Backward Equation: Derivation and Interpretation_**](https://www.youtube.com/watch?v=wrvHHNCRl7I)
+3. [**_The Continuity Equation_**](https://www.youtube.com/watch?v=uK-apwLuEk8&t=409s)
+4. [**_Pontryagin's principle of maximum_**](https://www.youtube.com/watch?v=Bxc4iy2xUjc)
+5. [**_HJB_**](to do)
+6. [**_Lagrangian Mechanics_**](to do)
+7. [**_Hamiltonian Mechanics_**](to do)
+8. [**_Feynman Kac_**](to do)
+9. [**__**]()
 
 
  
