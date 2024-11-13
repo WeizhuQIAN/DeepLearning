@@ -52,10 +52,10 @@
 1. [**_Kolmogorov Backward Equation: Derivation and Interpretation_**](https://www.youtube.com/watch?v=wrvHHNCRl7I)
 2. [**_The Continuity Equation_**](https://www.youtube.com/watch?v=uK-apwLuEk8&t=409s)
 3. [**_Pontryagin's principle of maximum_**](https://www.youtube.com/watch?v=Bxc4iy2xUjc)
-4. [**_HJB_**]()
-5. [**_Langevin Dyanmics_**]()
-6. [**_Hamiltonian Dynamics_**]()
-7. [**_Feynman Kac_**]()
+4. [**_HJB_**](to do)
+5. [**_Langevin Dyanmics_**](to do)
+6. [**_Hamiltonian Dynamics_**](to do)
+7. [**_Feynman Kac_**](to do)
 8. [**__**]()
 
 
