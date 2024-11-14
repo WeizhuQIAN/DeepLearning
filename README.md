@@ -37,7 +37,7 @@
 5. 
 
 
-## Video seminars
+## Seminars (videos)
 1. [**_Valence Labs, MIT_**](https://www.youtube.com/@valence_labs)
 2. [**_Simons Institute_**](https://www.youtube.com/@SimonsInstituteTOC/featured)
 3. [**_Mathématiques et informatique - Collège de France_**](https://www.youtube.com/@Mathematiques-Informatique-CdF)
@@ -48,7 +48,7 @@
 8. [**_ _**]()
 
 
-### Derivations
+### Derivations (videos)
 1. [**_Fokker-Planck Equation and Langevin dynamics_**](https://www.youtube.com/watch?v=3-KzIjoFJy4&t=8s)
 2. [**_Kolmogorov Backward Equation: Derivation and Interpretation_**](https://www.youtube.com/watch?v=wrvHHNCRl7I)
 3. [**_The Continuity Equation_**](https://www.youtube.com/watch?v=uK-apwLuEk8&t=409s)
