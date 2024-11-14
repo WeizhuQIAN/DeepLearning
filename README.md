@@ -1,4 +1,4 @@
-# Interesting materials for studying deep learning
+# Interesting materials for studying (statistical) deep learning
 
 
 ## Courses
