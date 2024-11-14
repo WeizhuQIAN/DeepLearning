@@ -53,10 +53,10 @@
 2. [**_Kolmogorov Backward Equation: Derivation and Interpretation_**](https://www.youtube.com/watch?v=wrvHHNCRl7I)
 3. [**_The Continuity Equation_**](https://www.youtube.com/watch?v=uK-apwLuEk8&t=409s)
 4. [**_Pontryagin's principle of maximum_**](https://www.youtube.com/watch?v=Bxc4iy2xUjc)
-5. [**_HJB_**](to do)
-6. [**_Lagrangian Mechanics_**](to do)
-7. [**_Hamiltonian Mechanics_**](to do)
-8. [**_Feynman Kac_**](to do)
+5. [**_Hamilton Jacobi Bellman (simplied)_**](https://www.youtube.com/watch?v=-hO-AnFYm6M&t=15s)
+6. [**_Feynman-Kac formula (simplied)_**](https://www.youtube.com/watch?v=o7deOrWRC2I)
+7. [**_Lagrangian Mechanics_**](to do)
+8. [**_Hamiltonian Mechanics_**](to do)
 9. [**__**]()
 
 
