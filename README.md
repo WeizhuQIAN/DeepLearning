@@ -54,7 +54,7 @@
 3. [**_The Continuity Equation_**](https://www.youtube.com/watch?v=uK-apwLuEk8&t=409s)
 4. [**_Pontryagin's principle of maximum_**](https://www.youtube.com/watch?v=Bxc4iy2xUjc)
 5. [**_Hamilton Jacobi Bellman (simplified)_**](https://www.youtube.com/watch?v=-hO-AnFYm6M&t=15s)
-6. [**_Feynman-Kac formula (simplified)_**](https://www.youtube.com/watch?v=o7deOrWRC2I)
+6. [**_Feynman-Kac formula (simplified)_**](https://www.youtube.com/watch?v=o7deOrWRC2I)|[wiki](https://en.wikipedia.org/wiki/Feynman%E2%80%93Kac_formula)
 7. [**_Lagrangian Mechanics_**](to do)
 8. [**_Hamiltonian Mechanics_**](to do)
 9. [**__**]()
