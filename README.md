@@ -54,7 +54,7 @@
 3. [**_The Continuity Equation_**](https://www.youtube.com/watch?v=uK-apwLuEk8&t=409s)
 4. [**_Pontryagin's principle of maximum_**](https://www.youtube.com/watch?v=Bxc4iy2xUjc)
 5. [**_Hamilton Jacobi Bellman (simplified)_**](https://www.youtube.com/watch?v=-hO-AnFYm6M&t=15s)
-6. [** Itô Lemma and Feynman-Kač Theorem **](https://www.youtube.com/watch?v=BDyU3SQuVrA&t=2289s)|[wiki](https://en.wikipedia.org/wiki/Feynman%E2%80%93Kac_formula)
+6. [**_Itô Lemma and Feynman-Kač Theorem_**](https://www.youtube.com/watch?v=BDyU3SQuVrA&t=2289s)|[wiki](https://en.wikipedia.org/wiki/Feynman%E2%80%93Kac_formula)
 7. [**_Lagrangian Mechanics_**](to do)
 8. [**_Hamiltonian Mechanics_**](to do)
 9. [**__**]()
