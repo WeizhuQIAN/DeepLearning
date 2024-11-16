@@ -5,11 +5,19 @@
 1. [**_Deep Generative Models_**, Kailing He (MIT EECS, Fall 2024)](https://mit-6s978.github.io/schedule.html)
 2. [**_Probabilistic Graphical Models_**, Eric P. Xing (CMU, Spring 2020)](https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html)
 3. [**_UvA Deep Learning Tutorial (with code)_**, Phillip Lippe (University of Amsterdam, Fall 2023)](https://uvadlc-notebooks.readthedocs.io/en/latest/)
-4. [**_Steve Brunton's Youtube channel_**，Steve Brunton, University of Washington](https://www.youtube.com/@Eigensteve/videos)
-5. [**_Rémi Flamary_**, Rémi Flamary, l'X](https://remi.flamary.com/teaching.html)
-6. [**_Undergraduate Notes_**, Sinho Chewi, UC Berkeley](https://chewisinho.github.io/class-notes)
-7. [**_Jeffrey Chasnov's Youtube channel_**, Jeffrey Chasnovs, HKUST](https://www.youtube.com/@ProfJeffreyChasnov/videos)
-8. [**_ _**]()
+4. [**_Rémi Flamary_**, Rémi Flamary, l'X](https://remi.flamary.com/teaching.html)
+5. [**_ _**]()
+6. [**_ _**]()
+7. 
+ 
+
+## Courses (math)
+1. [**_Steve Brunton's Youtube channel_**，Steve Brunton, University of Washington](https://www.youtube.com/@Eigensteve/videos)
+2. [**_Jeffrey Chasnov's Youtube channel_**, Jeffrey Chasnovs, HKUST](https://www.youtube.com/@ProfJeffreyChasnov/videos)
+3. [**_Undergraduate Notes_**, Sinho Chewi, UC Berkeley](https://chewisinho.github.io/class-notes)
+4. [**_Probability and Measure_**, Cache Lack](https://www.youtube.com/watch?v=qnVZku1_a3Q&list=PL0vEWJI_pj7RZ51zecINlzWxpFv83r8RE)
+5. [**_Stochastic Processes I_**, Choongbum Lee, MIT](https://www.youtube.com/watch?v=TuTmC8aOQJE&t=2s)|[II](https://www.youtube.com/watch?v=PPl-7_RL0Ko&t=21s)[Itō Calculus](https://www.youtube.com/watch?v=Z5yRMMVUC5w&t=468s)
+6. 
 
 
 ## Blogs and Notes
@@ -60,6 +68,9 @@
 9. [**__**]()
 
 
+## Tutorial (videos)
+1. [**__**]()
+2. [**__**]()
  
    
 
