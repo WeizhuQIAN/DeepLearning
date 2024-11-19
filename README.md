@@ -17,7 +17,9 @@
 3. [**_Undergraduate Notes_**, Sinho Chewi, UC Berkeley](https://chewisinho.github.io/class-notes)
 4. [**_Probability and Measure_**, Cache Lack](https://www.youtube.com/watch?v=qnVZku1_a3Q&list=PL0vEWJI_pj7RZ51zecINlzWxpFv83r8RE)
 5. [**_Stochastic Processes I_**, Choongbum Lee, MIT](https://www.youtube.com/watch?v=TuTmC8aOQJE&t=2s)|[Part II](https://www.youtube.com/watch?v=PPl-7_RL0Ko&t=21s)|[Itō Calculus](https://www.youtube.com/watch?v=Z5yRMMVUC5w&t=468s)
-6. 
+6. [**_Monte Carlo Methods and Applications_**,Keenan Crane and Gautam Iyer,CMU](https://gi1242.codeberg.page/cmu-math-cs-mcm/)
+7. [**_ _**]()
+8. [**_ _**]()
 
 
 ## Blogs and Notes
