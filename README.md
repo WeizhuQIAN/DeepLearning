@@ -75,7 +75,6 @@
 2. [**__**]()
 
 
-##### The Book of Poems says: "The lofty mountains inspire admiration; the broad avenues invite pursuit. Though one may not reach it, the heart yearns for it."
  
    
 
