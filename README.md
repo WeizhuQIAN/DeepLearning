@@ -59,7 +59,7 @@
 
 
 ### Derivations (videos)
-1. [**_Fokker-Planck Equation and Langevin dynamics_**](https://www.youtube.com/watch?v=3-KzIjoFJy4&t=8s)
+1. [**_Fokker-Planck Equation and Langevin dynamics_**, Kirill Neklyudov](https://www.youtube.com/watch?v=3-KzIjoFJy4&t=8s)
 2. [**_Kolmogorov Backward Equation: Derivation and Interpretation_**](https://www.youtube.com/watch?v=wrvHHNCRl7I)
 3. [**_The Continuity Equation_**](https://www.youtube.com/watch?v=uK-apwLuEk8&t=409s)
 4. [**_Pontryagin's principle of maximum_**](https://www.youtube.com/watch?v=Bxc4iy2xUjc)
