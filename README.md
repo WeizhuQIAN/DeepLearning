@@ -62,7 +62,7 @@
 1. [**_Fokker-Planck Equation and Langevin dynamics_**, Kirill Neklyudov](https://www.youtube.com/watch?v=3-KzIjoFJy4&t=8s)
 2. [**_Kolmogorov Backward Equation: Derivation and Interpretation_**](https://www.youtube.com/watch?v=wrvHHNCRl7I)
 3. [**_The Continuity Equation_**](https://www.youtube.com/watch?v=uK-apwLuEk8&t=409s)
-4. [**_Pontryagin's principle of maximum_**](https://www.youtube.com/watch?v=Bxc4iy2xUjc)
+4. [**_Pontryagin's principle of maximum_**](https://www.youtube.com/watch?v=Bxc4iy2xUjc)|[KTH course](https://people.kth.se/~aaurell/Courses/SF3971_VTHT15/SMP-intro.pdf)
 5. [**_Hamilton Jacobi Bellman (simplified)_**](https://www.youtube.com/watch?v=-hO-AnFYm6M&t=15s)
 6. [**_Itô Lemma and Feynman-Kač Theorem_**](https://www.youtube.com/watch?v=BDyU3SQuVrA&t=2289s)|[short](https://www.youtube.com/watch?v=o7deOrWRC2I)|[wiki](https://en.wikipedia.org/wiki/Feynman%E2%80%93Kac_formula)|[note](https://scholar.harvard.edu/files/forrestgflesher/files/final_paper_final.pdf)|[CMU course](https://geometrycollective.github.io/monte-carlo/slides/Lecture12-PDEsStochasticProcesses-CMUMonteCarloFA23.pdf)
 7. [**_Lagrangian Mechanics_**](to do)
