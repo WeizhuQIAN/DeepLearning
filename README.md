@@ -70,7 +70,7 @@
 9. [**__**]()
 
 ### Concepts and theorems 
-1. [**_Hopf–Cole transformations_**](https://people.math.sc.edu/wuchen/papers/GHC.pdf)
+1. [**_Hopf–Cole transformation_**](https://people.math.sc.edu/wuchen/papers/GHC.pdf)
 
 
 ## Tutorial (videos)
