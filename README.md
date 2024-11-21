@@ -40,11 +40,12 @@
 
 
 ## Books (math)
-1. [**_Mathematics for Machine Learning_**,Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong,2020.](https://mml-book.github.io/book/mml-book.pdf)
+1. [**_Mathematics for Machine Learning_**, Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong,2020.](https://mml-book.github.io/book/mml-book.pdf)
 2. [**_Probability Essentials_**, Jean Jacod and Philip Protter, 2004](https://www.karlin.mff.cuni.cz/~lachout/Vyuka/O-Sem/JacodProtter2004.pdf)
-3. [**_Partial Differential Equations_**,  Lawrence C. Evans, 1997](https://math24.wordpress.com/wp-content/uploads/2013/02/partial-differential-equations-by-evans.pdf)
-4. [**_ _**]()
-5. 
+3. [**_Partial Differential Equations_**, Lawrence C. Evans, 1997](https://math24.wordpress.com/wp-content/uploads/2013/02/partial-differential-equations-by-evans.pdf)
+4. [**_Applied Stochastic Differential Equations_**, Simo Särkkä and Arno Solin, 2013](https://users.aalto.fi/~asolin/sde-book/sde-book.pdf)
+5. [**_ _**]()
+6. 
 
 
 ## Seminars (videos)
