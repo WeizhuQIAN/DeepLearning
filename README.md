@@ -69,6 +69,9 @@
 8. [**_Hamiltonian Mechanics_**](to do)
 9. [**__**]()
 
+### Concepts and theorems 
+1. [**_Hopf–Cole transformations_**](https://people.math.sc.edu/wuchen/papers/GHC.pdf)
+
 
 ## Tutorial (videos)
 1. [**__**]()
