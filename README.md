@@ -44,8 +44,10 @@
 2. [**_Probability Essentials_**, Jean Jacod and Philip Protter, 2004](https://www.karlin.mff.cuni.cz/~lachout/Vyuka/O-Sem/JacodProtter2004.pdf)
 3. [**_Partial Differential Equations_**, Lawrence C. Evans, 1997](https://math24.wordpress.com/wp-content/uploads/2013/02/partial-differential-equations-by-evans.pdf)
 4. [**_Applied Stochastic Differential Equations_**, Simo Särkkä and Arno Solin, 2013](https://users.aalto.fi/~asolin/sde-book/sde-book.pdf)
-5. [**_ _**]()
-6. 
+5. [**_Handbook of Mathematical Formulas and Integrals_**, Alan Jeffrey and Hui-Hui Dai](https://wiki.3av.us/lib/exe/fetch.php?media=astronomy_and_astrophysics:handbook_of_mathematical_formulas_and_in.pdf)
+6. [**_ _**]()
+7. [**_ _**]()
+8. 
 
 
 ## Seminars (videos)
