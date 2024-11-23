@@ -19,7 +19,7 @@
 5. [**_Stochastic Processes I_**, Choongbum Lee, MIT](https://www.youtube.com/watch?v=TuTmC8aOQJE&t=2s)|[Part II](https://www.youtube.com/watch?v=PPl-7_RL0Ko&t=21s)|[Itō Calculus](https://www.youtube.com/watch?v=Z5yRMMVUC5w&t=468s)
 6. [**_Monte Carlo Methods and Applications_**,Keenan Crane and Gautam Iyer,CMU](https://gi1242.codeberg.page/cmu-math-cs-mcm/)
 7. [**_Kirill Neklyudov's Youtube channel_**, Kirill Neklyudov, Université de Montréal](https://www.youtube.com/@k_neklyudov/videos)
-8. [**_ _**]()
+8. [**_Partial Differential Equations_**, Giovanni Bellettini, ICTP](https://www.youtube.com/watch?v=Rq1iRT2LL-8&list=PLLq_gUfXAnkkvL_UoCGivS0wOYhwCtczI)
 
 
 ## Blogs and Notes
