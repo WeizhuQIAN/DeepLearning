@@ -20,6 +20,11 @@
 6. [**_Monte Carlo Methods and Applications_**,Keenan Crane and Gautam Iyer,CMU](https://gi1242.codeberg.page/cmu-math-cs-mcm/)
 7. [**_Kirill Neklyudov's Youtube channel_**, Kirill Neklyudov, Université de Montréal](https://www.youtube.com/@k_neklyudov/videos)
 8. [**_Partial Differential Equations_**, Giovanni Bellettini, ICTP](https://www.youtube.com/watch?v=Rq1iRT2LL-8&list=PLLq_gUfXAnkkvL_UoCGivS0wOYhwCtczI)
+9. [**_ _**]()
+10. [**_ _**]()
+11. 
+
+
 
 
 ## Blogs and Notes
@@ -36,8 +41,9 @@
 2. [**_Pattern Recognition and Machine Learning_**, Christopher M. Bishop (Microsoft),2006](https://github.com/peteflorence/MachineLearning6.867/blob/master/Bishop/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
 3. [**_Deep Generative Modeling (with code)_**, Jakub Tomczak (Eindhoven), 2024](https://github.com/jmtomczak/intro_dgm/tree/main?tab=readme-ov-file)
 4. [**_The Modern Mathematics of Deep Learning_**, Julius Berner, Philipp Grohs, Gitta Kutyniok and Philipp Petersen](https://arxiv.org/pdf/2105.04026)
-5. [**_ _**]()
+5. [**_Statistics and Information Theory_**, John Duchi (Stanford), 2024](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
 6. [**_ _**]()
+7. [**_ _**]()
 
 
 ## Books (math)
@@ -61,6 +67,7 @@
 6. [**_Finnish Center for Artificial Intelligence (FCAI)_**](https://www.youtube.com/@FCAI/videos)
 7. [**_Institute for Pure & Applied Mathematics (IPAM)_**](https://www.youtube.com/@IPAMUCLA)
 8. [**_ _**]()
+9. [**_ _**]()
 
 
 ### Derivations (videos)
@@ -74,8 +81,10 @@
 8. [**_Hamiltonian Mechanics_**](to do)
 9. [**__**]()
 
+
 ### Concepts and theorems 
 1. [**_Hopf–Cole transformation_**](https://people.math.sc.edu/wuchen/papers/GHC.pdf)|[University of Münster course](https://www.uni-muenster.de/Physik.TP/archive/fileadmin/lehre/NumMethoden/SoSe10/Skript/Burgers.pdf)
+2. [**_ _**]()
 
 
 ## Tutorial (videos)
