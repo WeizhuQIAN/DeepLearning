@@ -41,7 +41,7 @@
 2. [**_Pattern Recognition and Machine Learning_**, Christopher M. Bishop (Microsoft),2006](https://github.com/peteflorence/MachineLearning6.867/blob/master/Bishop/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
 3. [**_Deep Generative Modeling (with code)_**, Jakub Tomczak (Eindhoven), 2024](https://github.com/jmtomczak/intro_dgm/tree/main?tab=readme-ov-file)
 4. [**_The Modern Mathematics of Deep Learning_**, Julius Berner, Philipp Grohs, Gitta Kutyniok and Philipp Petersen](https://arxiv.org/pdf/2105.04026)
-5. [**_Statistics and Information Theory_**, John Duchi (Stanford), 2024](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
+5. [**_ _**]()
 6. [**_ _**]()
 7. [**_ _**]()
 
@@ -54,8 +54,9 @@
 5. [**_Handbook of Mathematical Formulas and Integrals_**, Alan Jeffrey and Hui-Hui Dai, 2008](https://wiki.3av.us/lib/exe/fetch.php?media=astronomy_and_astrophysics:handbook_of_mathematical_formulas_and_in.pdf)
 6. [**_Measure Theory_**, John K. Hunter, 2011](https://www.math.ucdavis.edu/~hunter/m206/measure_notes.pdf)
 7. [**_CLP-4 Vector Calculus_**, Joel FELDMAN, Andrew RECHNITZER, Elyse YEAGER (University of British Columbia), 2024](https://personal.math.ubc.ca/~CLP/CLP4/)
-8. [**_ _**]()
+8. [**_Statistics and Information Theory_**, John Duchi (Stanford), 2024](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
 9. [**_ _**]()
+10. [**_ _**]()
 
 
 ## Seminars (videos)
