@@ -73,7 +73,7 @@
 
 ### Derivations (videos)
 1. [**_Fokker-Planck Equation and Langevin dynamics_**, Kirill Neklyudov](https://www.youtube.com/watch?v=3-KzIjoFJy4&t=8s)
-2. [**_Kolmogorov Backward Equation: Derivation and Interpretation_**](https://www.youtube.com/watch?v=wrvHHNCRl7I)
+2. [**_Kolmogorov Backward Equation: Derivation and Interpretation_**](https://www.youtube.com/watch?v=wrvHHNCRl7I)[adjoints](https://www.youtube.com/watch?v=PaZ0L2hj7PE&t=140s)
 3. [**_The Continuity Equation_**](https://www.youtube.com/watch?v=uK-apwLuEk8&t=409s)
 4. [**_Pontryagin's principle of maximum_**](https://www.youtube.com/watch?v=Bxc4iy2xUjc)|[KTH course](https://people.kth.se/~aaurell/Courses/SF3971_VTHT15/SMP-intro.pdf)
 5. [**_Hamilton Jacobi Bellman (simplified)_**](https://www.youtube.com/watch?v=-hO-AnFYm6M&t=15s)|[Wei Kang](https://www.youtube.com/watch?v=ABY-Wo6w77I&t=2023s)
