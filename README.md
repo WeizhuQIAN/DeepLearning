@@ -12,7 +12,7 @@
  
 
 ## Courses (math)
-1. [**_Steve Brunton's Youtube channel_**，Steve Brunton, University of Washington](https://www.youtube.com/@Eigensteve/videos)
+1. [**_Steve Brunton's Youtube channel_**, Steve Brunton, University of Washington](https://www.youtube.com/@Eigensteve/videos)
 2. [**_Jeffrey Chasnov's Youtube channel_**, Jeffrey Chasnovs, HKUST](https://www.youtube.com/@ProfJeffreyChasnov/videos)
 3. [**_Undergraduate Notes_**, Sinho Chewi, UC Berkeley](https://chewisinho.github.io/class-notes)
 4. [**_Probability and Measure_**, Cache Lack](https://www.youtube.com/watch?v=qnVZku1_a3Q&list=PL0vEWJI_pj7RZ51zecINlzWxpFv83r8RE)
