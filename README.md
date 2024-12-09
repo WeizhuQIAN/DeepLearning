@@ -20,7 +20,7 @@
 6. [**_Monte Carlo Methods and Applications_**,Keenan Crane and Gautam Iyer,CMU](https://gi1242.codeberg.page/cmu-math-cs-mcm/)
 7. [**_Kirill Neklyudov's Youtube channel_**, Kirill Neklyudov, Université de Montréal](https://www.youtube.com/@k_neklyudov/videos)
 8. [**_Partial Differential Equations_**, Giovanni Bellettini, ICTP](https://www.youtube.com/watch?v=Rq1iRT2LL-8&list=PLLq_gUfXAnkkvL_UoCGivS0wOYhwCtczI)
-9. [**_ _**]()
+9. [**_Stochastic Partial Differential Equations_**, Martin Hairer, EPFL](https://www.youtube.com/watch?v=4N70I5_Ervk&list=PLO_W2Bucp95mkiZBgmu5t9JY5kzaHnsQJ)
 10. [**_ _**]()
 11. 
 
