@@ -32,7 +32,7 @@
 4. [**_棒棒生_**, Chih-Sheng Chen](https://bobondemon.github.io/)
 5. [**_Ludwig Winkler_**](https://ludwigwinkler.github.io/)
 6. [**_Christian S. Perone_**](https://blog.christianperone.com/)
-7. [**_Sander Dieleman_**, Deep Mind](https://sander.ai/)
+7. [**_Sander Dieleman_**, Deep Mind](https://sander.ai/posts/)
 8. [**_ _**]()
 
 
