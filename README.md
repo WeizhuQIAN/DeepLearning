@@ -32,8 +32,10 @@
 2. [**_Agustinus Kristiadi_**, MILA ](https://agustinus.kristia.de/blog/)
 3. [**_Alexandre Thiéry_**, NUS](https://alexxthiery.github.io/notes/index_notes.html)
 4. [**_棒棒生_**, Chih-Sheng Chen](https://bobondemon.github.io/)
-5. [**_ _**]()
-6. [**_ _**]()
+5. [**_Ludwig Winkler_**](https://ludwigwinkler.github.io/)
+6. [**_Christian S. Perone_**](https://blog.christianperone.com/)
+7. [**_ _**]()
+8. [**_ _**]()
 
 
 ## Books (machine learning)
