@@ -80,7 +80,7 @@
 6. [**_Itô Lemma and Feynman-Kač Theorem_**](https://www.youtube.com/watch?v=BDyU3SQuVrA&t=2289s)|[short](https://www.youtube.com/watch?v=o7deOrWRC2I)|[wiki](https://en.wikipedia.org/wiki/Feynman%E2%80%93Kac_formula)|[note](https://scholar.harvard.edu/files/forrestgflesher/files/final_paper_final.pdf)|[CMU course](https://geometrycollective.github.io/monte-carlo/slides/Lecture12-PDEsStochasticProcesses-CMUMonteCarloFA23.pdf)
 7. [**_Lagrangian Mechanics_**](to do)
 8. [**_Hamiltonian Mechanics_**](to do)
-9. [**__**]()
+9. [**_Lyapunov Stability Theorem_**](https://www.youtube.com/watch?v=Fb6XY-cTivo)
 
 
 ### Concepts and theorems 
