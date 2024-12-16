@@ -78,9 +78,10 @@
 4. [**_Pontryagin's principle of maximum_**](https://www.youtube.com/watch?v=Bxc4iy2xUjc)|[KTH course](https://people.kth.se/~aaurell/Courses/SF3971_VTHT15/SMP-intro.pdf)
 5. [**_Hamilton Jacobi Bellman (simplified)_**](https://www.youtube.com/watch?v=-hO-AnFYm6M&t=15s)|[Wei Kang](https://www.youtube.com/watch?v=ABY-Wo6w77I&t=2023s)
 6. [**_Itô Lemma and Feynman-Kač Theorem_**](https://www.youtube.com/watch?v=BDyU3SQuVrA&t=2289s)|[short](https://www.youtube.com/watch?v=o7deOrWRC2I)|[wiki](https://en.wikipedia.org/wiki/Feynman%E2%80%93Kac_formula)|[note](https://scholar.harvard.edu/files/forrestgflesher/files/final_paper_final.pdf)|[CMU course](https://geometrycollective.github.io/monte-carlo/slides/Lecture12-PDEsStochasticProcesses-CMUMonteCarloFA23.pdf)
-7. [**_Lagrangian Mechanics_**](to do)
-8. [**_Hamiltonian Mechanics_**](to do)
-9. [**_Lyapunov Stability Theorem_**](https://www.youtube.com/watch?v=Fb6XY-cTivo)
+7. [**_Lagrangian and Hamiltonian Mechanics_**](https://www.youtube.com/watch?v=0DHNGtsmmH8&t=851s)
+8. [**_Lyapunov Stability Theorem_**](https://www.youtube.com/watch?v=Fb6XY-cTivo)
+9. [**_ _**]()
+10. 
 
 
 ### Concepts and theorems 
