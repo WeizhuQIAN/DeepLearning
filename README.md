@@ -90,8 +90,11 @@
 
 
 ## Tutorial (videos)
-1. [**__**]()
-2. [**__**]()
+1. [**_Wasserstein gradient flows and applications to sampling and machine
+learning_**, Anna Korba](https://akorba.github.io/resources/CIRM.pdf)
+2. [**_Optimal Transport in Learning, Control, and Dynamical Systems_**, Charlotte Bunne and Marco Cuturi](https://icml.cc/media/icml-2023/Slides/21559_VFbdtkE.pdf)
+3. [**__**]()
+4. [**__**]()
 
 
  
