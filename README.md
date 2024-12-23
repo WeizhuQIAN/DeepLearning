@@ -8,7 +8,7 @@
 4. [**_Rémi Flamary_**, Rémi Flamary, l'X](https://remi.flamary.com/teaching.html)
 5. [**_Deep Learning_**, Shervine Amidi, Standford](https://stanford.edu/~shervine/teaching/cs-221/)
 6. [**_ _**]()
-7. 
+7. [**_ _**]() 
  
 
 ## Courses (math)
@@ -21,8 +21,9 @@
 7. [**_Kirill Neklyudov's Youtube channel_**, Kirill Neklyudov, Université de Montréal](https://www.youtube.com/@k_neklyudov/videos)
 8. [**_Partial Differential Equations_**, Giovanni Bellettini, ICTP](https://www.youtube.com/watch?v=Rq1iRT2LL-8&list=PLLq_gUfXAnkkvL_UoCGivS0wOYhwCtczI)
 9. [**_Stochastic Partial Differential Equations_**, Martin Hairer, EPFL](https://www.youtube.com/watch?v=4N70I5_Ervk&list=PLO_W2Bucp95mkiZBgmu5t9JY5kzaHnsQJ)
-10. [**_ _**]()
-11. 
+10. [**_Applied Analysis_**, John Hunter and Bruno Nachtergaele, UCD](https://www.math.ucdavis.edu/~hunter/book/pdfbook.html)
+11. [**_ _**]()
+12. [**_ _**]()
 
 
 ## Blogs and Notes
@@ -34,6 +35,7 @@
 6. [**_Christian S. Perone_**](https://blog.christianperone.com/)
 7. [**_Sander Dieleman_**, Deep Mind](https://sander.ai/posts/)
 8. [**_ _**]()
+9. [**_ _**]()
 
 
 ## Books (machine learning)
@@ -57,6 +59,7 @@
 8. [**_Statistics and Information Theory_**, John Duchi (Stanford), 2024](https://web.stanford.edu/class/stats311/lecture-notes.pdf)
 9. [**_Partial Differential Equations in Action From Modelling to Theory_**, Sandro Salsa, 2008](https://www.sgo.fi/~j/baylie/Partial%20Differential%20Equations%20in%20Action%20-%20From%20Modelling%20to%20Theory%20-%20S.%20Salsa%20(Springer,%202008)%20WW.pdf)
 10. [**_LECTURE NOTES ON APPLIED MATHEMATICS: Methods and Models_**, John K. Hunter, University of California, Davis, 2009](https://media.licdn.com/dms/document/media/v2/D4D1FAQFLT4XabtZVSQ/feedshare-document-pdf-analyzed/B4DZPldujcGUAY-/0/1734721636526?e=1735776000&v=beta&t=YGJsWCuSgJIiG_GfErbv6tgzp1l42ynft0ZKu2gVkAQ)
+11.  [**_ _**]()
 
 
 ## Seminars (videos)
@@ -81,12 +84,13 @@
 7. [**_Lagrangian and Hamiltonian Mechanics_**](https://www.youtube.com/watch?v=0DHNGtsmmH8&t=851s)
 8. [**_Lyapunov Stability Theorem_**](https://www.youtube.com/watch?v=Fb6XY-cTivo)
 9. [**_Doob's h-Transform_**](https://ludwigwinkler.github.io/blog/Doob/)
-10. 
+10. [**_ _**]()
 
 
 ### Concepts and theorems 
 1. [**_Hopf–Cole transformation_**](https://people.math.sc.edu/wuchen/papers/GHC.pdf)|[University of Münster course](https://www.uni-muenster.de/Physik.TP/archive/fileadmin/lehre/NumMethoden/SoSe10/Skript/Burgers.pdf)
 2. [**_ _**]()
+3. [**_ _**]()
 
 
 ## Tutorial (videos)
