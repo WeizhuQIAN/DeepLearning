@@ -43,7 +43,7 @@
 2. [**_Pattern Recognition and Machine Learning_**, Christopher M. Bishop (Microsoft),2006](https://github.com/peteflorence/MachineLearning6.867/blob/master/Bishop/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
 3. [**_Deep Generative Modeling (with code)_**, Jakub Tomczak (Eindhoven), 2024](https://github.com/jmtomczak/intro_dgm/tree/main?tab=readme-ov-file)
 4. [**_The Modern Mathematics of Deep Learning_**, Julius Berner, Philipp Grohs, Gitta Kutyniok and Philipp Petersen](https://arxiv.org/pdf/2105.04026)
-5. [**_ _**]()
+5. [**_Optimal transport, old and new_**, Cédric Villani, 2008](https://www.cedricvillani.org/sites/dev/files/old_images/2012/08/preprint-1.pdf)
 6. [**_ _**]()
 7. [**_ _**]()
 
