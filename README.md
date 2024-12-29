@@ -34,7 +34,7 @@
 5. [**_Ludwig Winkler_**](https://ludwigwinkler.github.io/)
 6. [**_Christian S. Perone_**](https://blog.christianperone.com/)
 7. [**_Sander Dieleman_**, Deep Mind](https://sander.ai/posts/)
-8. [**_ _**]()
+8. [**_Off the convex path_**](https://www.offconvex.org/)
 9. [**_ _**]()
 
 
