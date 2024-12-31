@@ -35,7 +35,9 @@
 6. [**_Christian S. Perone_**](https://blog.christianperone.com/)
 7. [**_Sander Dieleman_**, Deep Mind](https://sander.ai/posts/)
 8. [**_Off the convex path_**](https://www.offconvex.org/)
-9. [**_ _**]()
+9. [**_Mufan Li_**, Princeton](https://mufan-li.github.io/blog-posts/)
+10. [**_ _**]()
+11. [**_ _**]()
 
 
 ## Books (machine learning)
