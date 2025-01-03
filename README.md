@@ -88,7 +88,8 @@
 7. [**_Lagrangian and Hamiltonian Mechanics_**](https://www.youtube.com/watch?v=0DHNGtsmmH8&t=851s)
 8. [**_Lyapunov Stability Theorem_**](https://www.youtube.com/watch?v=Fb6XY-cTivo)
 9. [**_Doob's h-Transform_**](https://ludwigwinkler.github.io/blog/Doob/)
-10. [**_ _**]()
+10. [**_Strong and weak convergences of stochastic processes_**](https://www.youtube.com/watch?v=_BWkUaL-Yq0)
+11. [**_ _**]()
 
 
 ### Concepts and theorems 
