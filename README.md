@@ -89,7 +89,7 @@
 8. [**_Lyapunov Stability Theorem_**](https://www.youtube.com/watch?v=Fb6XY-cTivo)
 9. [**_Doob's h-Transform_**](https://ludwigwinkler.github.io/blog/Doob/)
 10. [**_Strong and weak convergences of stochastic processes_**](https://www.youtube.com/watch?v=_BWkUaL-Yq0)
-11. [**_Markov chains and Spectral gaps_**](https://weitsehsu.com/post/spectral_gap/)|[mathoverflow](https://math.stackexchange.com/questions/2465079/intuitive-explanation-of-the-spectral-gap-in-context-of-markov-chain-monte-carlo)
+11. [**_Markov chains and Spectral gaps_**](https://weitsehsu.com/post/spectral_gap/)|[answer](https://math.stackexchange.com/questions/2465079/intuitive-explanation-of-the-spectral-gap-in-context-of-markov-chain-monte-carlo)|[Beyond log-concave sampling](https://www.offconvex.org/2020/09/19/beyondlogconvavesampling/)
 12. [**_ _**]()
 13. [**_ _**]()
 
