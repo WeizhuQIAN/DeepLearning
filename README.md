@@ -95,9 +95,10 @@
 
 
 ### Concepts and theorems 
-1. [**_Hopf–Cole transformation_**](https://people.math.sc.edu/wuchen/papers/GHC.pdf)|[University of Münster course](https://www.uni-muenster.de/Physik.TP/archive/fileadmin/lehre/NumMethoden/SoSe10/Skript/Burgers.pdf)
-2. [**_ _**]()
+1. [**_Compactness_**](https://www.youtube.com/watch?v=td7Nz9ATyWY&ab_channel=Morphocular)
+2. [**_Hopf–Cole transformation_**](https://people.math.sc.edu/wuchen/papers/GHC.pdf)|[University of Münster course](https://www.uni-muenster.de/Physik.TP/archive/fileadmin/lehre/NumMethoden/SoSe10/Skript/Burgers.pdf)
 3. [**_ _**]()
+4. [**_ _**]()
 
 
 ## Tutorial (videos)
