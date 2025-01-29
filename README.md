@@ -23,7 +23,9 @@
 9. [**_Stochastic Partial Differential Equations_**, Martin Hairer, EPFL](https://www.youtube.com/watch?v=4N70I5_Ervk&list=PLO_W2Bucp95mkiZBgmu5t9JY5kzaHnsQJ)
 10. [**_Applied Analysis_**, John Hunter and Bruno Nachtergaele, UCD](https://www.math.ucdavis.edu/~hunter/book/pdfbook.html)
 11. [**_Probability Theory and Stochastic Processes_**,Todd Kemp, UCSD](https://mathweb.ucsd.edu/~tkemp/ProbabilityTube/)
-12. [**_ _**]()
+12. [**_Python Numerical Methods_**](https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html)
+13. [**_ _**]()
+14. [**_ _**]()  
 
 
 ## Blogs and Notes
