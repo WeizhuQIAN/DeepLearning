@@ -105,7 +105,7 @@
 1. [**_Compactness_**](https://www.youtube.com/watch?v=td7Nz9ATyWY&ab_channel=Morphocular)
 2. [**_Group Theory_**](https://www.youtube.com/watch?v=KufsL2VgELo)
 3. [**_Hopf–Cole transformation_**](https://people.math.sc.edu/wuchen/papers/GHC.pdf)|[University of Münster course](https://www.uni-muenster.de/Physik.TP/archive/fileadmin/lehre/NumMethoden/SoSe10/Skript/Burgers.pdf)
-4. [**_Ambiguity With Partial ∂ Notation_**](https://www.youtube.com/watch?v=mICbKwwHziI&ab_channel=EpsilonDelta)
+4. [**_Ambiguity With Partial ∂ Notation_**](https://www.youtube.com/watch?v=mICbKwwHziI&ab_channel=EpsilonDelta)|[math and physics](https://www.youtube.com/watch?v=QFHSHhpbo00&ab_channel=EpsilonDelta)
 5. [**_ _**]()
 
 
