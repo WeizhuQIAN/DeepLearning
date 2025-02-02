@@ -38,7 +38,7 @@
 7. [**_Sander Dieleman_**, Deep Mind](https://sander.ai/posts/)
 8. [**_Off the convex path_**](https://www.offconvex.org/)
 9. [**_Mufan Li_**, Princeton](https://mufan-li.github.io/blog-posts/)
-10. [**_ _**]()
+10. [**_Dan MacKinlay_**](https://danmackinlay.name/notebook/ml_pde_operator)
 11. [**_ _**]()
 
 
