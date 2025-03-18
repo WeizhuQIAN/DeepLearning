@@ -72,7 +72,7 @@
 14. [**_Analysis: FOURIER ANALYSIS_**, Elias M. Stein & Rami Shakarchi, Princeton](https://kryakin.site/am2/Stein-Shakarchi-1-Fourier_Analysis.pdf)
 15. [**_Analysis: INTRODUCTION TO PDE_**, Sergiu Klainerman, Princeton](https://web.math.princeton.edu/~seri/courses/Analysis2011.pdf)
 16. [**_REAL ANALYSIS :Measure Theory, Integration, and Hilbert Spaces_**, Elias M. Stein & Rami Shakarchi, Princeton](https://www.cmat.edu.uy/~mordecki/courses/medida2013/book.pdf)
-17. [**_ _**]()
+17. [**_Random Matrix Methods for Machine Learning,Romain Couillet, Zhenyu Liao_**](https://polaris.imag.fr/romain.couillet/docs/RMT_ML_Book.pdf)
 18. [**_ _**]()
 
 
