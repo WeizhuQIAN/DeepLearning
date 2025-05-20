@@ -73,7 +73,9 @@
 15. [**_Analysis: INTRODUCTION TO PDE_**, Sergiu Klainerman, Princeton](https://web.math.princeton.edu/~seri/courses/Analysis2011.pdf)
 16. [**_REAL ANALYSIS :Measure Theory, Integration, and Hilbert Spaces_**, Elias M. Stein & Rami Shakarchi, Princeton](https://www.cmat.edu.uy/~mordecki/courses/medida2013/book.pdf)
 17. [**_Random Matrix Methods for Machine Learning,Romain Couillet, Zhenyu Liao_**](https://polaris.imag.fr/romain.couillet/docs/RMT_ML_Book.pdf)
-18. [**_ _**]()
+18. [**_High-Dimensional Probability: An Introduction with Applications in Data Science_**, Second Edition, Roman Vershynin](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf)
+19. [**_ _**]()
+20. [**_ _**]()
 
 
 ## Seminars (videos)
