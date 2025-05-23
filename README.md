@@ -118,7 +118,8 @@
 1. [**_Wasserstein gradient flows and applications to sampling and machine learning_**, Anna Korba](https://akorba.github.io/resources/CIRM.pdf)
 2. [**_Optimal Transport in Learning, Control, and Dynamical Systems_**, Charlotte Bunne and Marco Cuturi](https://icml.cc/media/icml-2023/Slides/21559_VFbdtkE.pdf)
 3. [**_Shape Analysis (Lecture 19): Optimal transport_**, Justin Solomon, MIT](https://www.youtube.com/watch?v=MSbvkhAR0VY&t=2393s)
-4. [**__**]()
+4. [**_Diffusion and Score-Based Generative Models_**, Yqng Song, OpenAI](https://www.youtube.com/watch?v=wMmqCMwuM2Q&t=624s)
+5. 
 
 
  
