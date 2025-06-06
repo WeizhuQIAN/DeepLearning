@@ -41,7 +41,7 @@
 10. [**_Mufan Li_**, Princeton](https://mufan-li.github.io/blog-posts/)
 11. [**_Dan MacKinlay_**](https://danmackinlay.name/notebook/ml_pde_operator)
 12. [**_Amirhossein Taghvaei_**, University of Washington, Seattle](https://amirtag.github.io/)
-13. [**_ _**]()
+13. [**_Taiji Suzuki_**, The University of Tokyo](https://ibis.t.u-tokyo.ac.jp/suzuki/)
 14. [**_ _**]()
 
 
