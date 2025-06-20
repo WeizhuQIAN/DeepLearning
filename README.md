@@ -42,7 +42,8 @@
 11. [**_Dan MacKinlay_**](https://danmackinlay.name/notebook/ml_pde_operator)
 12. [**_Amirhossein Taghvaei_**, University of Washington, Seattle](https://amirtag.github.io/)
 13. [**_Taiji Suzuki_**, The University of Tokyo](https://ibis.t.u-tokyo.ac.jp/suzuki/)
-14. [**_ _**]()
+14. [**_Mathieu Laurière_**, NYU Shanghai](https://mlauriere.github.io/)
+15. 
 
 
 ## Books (machine learning)
