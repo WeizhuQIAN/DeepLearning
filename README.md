@@ -7,7 +7,7 @@
 3. [**_UvA Deep Learning Tutorial (with code)_**, Phillip Lippe (University of Amsterdam, Fall 2023)](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 4. [**_Rémi Flamary_**, Rémi Flamary, l'X](https://remi.flamary.com/teaching.html)
 5. [**_Deep Learning_**, Shervine Amidi, Standford](https://stanford.edu/~shervine/teaching/cs-221/)
-6. [**_ _**]()
+6. [**_Sequential Monte Carlo Methods_**, Zheng Zhao, Linköping University.](https://www.ida.liu.se/divisions/stima/fokurser/smc2025/)
 7. [**_ _**]() 
  
 
